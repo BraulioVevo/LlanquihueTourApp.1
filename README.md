@@ -8,7 +8,7 @@
 
 \* Carrera: Desarrollo de Aplicaciones
 
-\* Sede: Campus Online
+\* Sede: Campus Online DUOC
 
 
 
