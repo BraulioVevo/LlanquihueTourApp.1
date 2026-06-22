@@ -48,7 +48,7 @@ El código fuente se encuentra organizado de manera modular bajo el paquete raí
 
 └── util/        # Utilidades del sistema. Aloja las excepciones personalizadas (rutInvalidoException, correoInvalidoException).
 
-
+** Asegurate de tener una versión de JAVA 23 o posterior y verificar que el archivo DatosPersonas.csv, este en la carpeta.
 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
 
