@@ -32,7 +32,7 @@ public class LectorArchivo {
             
             while ((linea = lector.readLine())!= null){
                 
-                //Realizamos separación de linea usando punto y coma (";")
+                //Realizamos separación de linea usando coma (",")
                 String [] partes = linea.split(",");
                 
                 //Validamos que tenga todos los atributos
